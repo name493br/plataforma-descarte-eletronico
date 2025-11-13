@@ -36,7 +36,7 @@ Plataforma web desenvolvida para facilitar o descarte correto de lixo eletrônic
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/plataforma-descarte-eletronico.git
+git clone https://github.com/name493br/plataforma-descarte-eletronico.git
 
 # Entre na pasta do projeto
 cd plataforma-descarte-eletronico
