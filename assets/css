@@ -1,0 +1,5 @@
+:root {
+    --primary-green: #2e7d32;
+    --secondary-green: #66bb6a;
+    --accent-orange: #ff6f00;
+}
