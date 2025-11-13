@@ -31,3 +31,5 @@ Plataforma web desenvolvida para facilitar o descarte correto de lixo eletrônic
 - **Ícones:** Font Awesome 6.4
 - **Fontes:** Google Fonts (Inter)
 - **Hospedagem:** GitHub Pages
+![Imagem do WhatsApp de 2025-11-13 à(s) 11 53 35_3ffdf2e1](https://github.com/user-attachments/assets/87b1ab17-155a-4ede-b3b2-2a523a4d3581)
+![Imagem do WhatsApp de 2025-11-13 à(s) 11 53 30_ff892875](https://github.com/user-attachments/assets/2601895a-17ba-4fa2-af33-3f596ba1eada)
